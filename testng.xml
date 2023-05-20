@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="GlobalFair Buyer Login">
+    <classes>
+      <class name="testScripts.Login"/>
+    </classes>
+  </test>
+</suite>
